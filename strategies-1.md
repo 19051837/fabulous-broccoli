@@ -24,15 +24,15 @@ Similarly, we will use other social networking platforms such as Google+, Twitte
 
 ### What are our strategies to secure, serve, and retain?
 
-Securing customers:
+#### Securing customers:
 
 we will be using social media marketing to gain new customers. we will be offering a free trial to new customers to the basic version of our product and we will be delivering free counselings sessions to understand their needs and offering them the customized version of our product to better serve their problem.This strategy will enable the customer to think this brand actually wants to understand my problem and offering me exactly what I am looking for.
 
-Serving customers:
+#### Serving customers:
 
 we will be sending regular feedback emails to make sure our customers are happy with our services. If they have any issues, we will immediately resolve it to serve them most effectively. Emails and telephone calls will help us to achieve this goal. Apart from that, we will regularly monitor the trends to fix the problem immediately if there is any downfall in existing customers.
 
-Retaining customers:
+#### Retaining customers:
 
 we want to achieve long-term loyalty with the customer and for retaining old customers we will always try to deliver them more than their expectations.For example, if our response policy is 6 hours for their queries, we will make sure we will respond to them within 3 hours thereby exceeding their expectations. Another important aspect is personalized emails, we will be sending personalized emails such as birthdays emails so that customers will feel we care for them. Additionally, we will be giving discount offers, and rewards as an incentive to them in order to compel them to keep using our services.
 
