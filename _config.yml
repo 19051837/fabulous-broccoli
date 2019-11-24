@@ -5,9 +5,9 @@ permalink: "/:title/"
 layout_style: overflow
 palette: orange
 header:
-  title: Fixee
+  title: FIXEE
   tagline: Sarpeet Kaur (19051837)
-  profile_img: "/images/Untitled.png"
+  profile_img: "/images/Untitled-1.png"
   bg: dark
   has_nav: true
   has_social: true
