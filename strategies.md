@@ -1,8 +1,6 @@
 ---
 title: Risk
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment and
-  styles for your content.
+subtitle: ''
 layout: page
 img_path: ''
 menu:
@@ -10,79 +8,80 @@ menu:
     weight: 3
 
 ---
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+![](/images/355_main.jpg)
 
-# This is an H1
+#### What the the risks to our venture ?
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+##### Wrong technologies stack for developing the solution
 
-## This is an H2
+ Choosing the right technology stack is very crucial for a product/software development as it needs to be intuitive to users and highly accurate for making decisions to mitigate production issues based on AI algorithms. Since this deals with the client's production environment and security vulnerabilities, choosing the wrong technology stack may lead to the client's dissatisfaction at the end. 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+##### Risk related to the hiring process of employees
 
-### This is an H3
+Selecting ideal candidates is very important for our startup. This startup requires employees who can think out of the box and highly enthusiastic about working on new technologies. Besides knowing various technologies, the employees need to have good attitude and willingness to work in a group. Any problems in the selection process will be detrimental to our organization.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+##### Economic Recession
 
-#### This is an H4
+There is a possibility that there might be a recession when the product is ready for market. Due to recession, clients would normally look for cutting costs and hence not be able to buy our application/product, which will lead to a venture failure.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+##### Competitors out-innovate product.
 
-## Quoting
+There is a possibility that our competitors can copy our business models and strategies and produce better product than our application
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
+##### Risk from natural disasters
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Application servers need to be shut down if any natural disasters happen in the city where our servers are being hosted.
 
-<hr />
+##### Risk to breach security policies
 
-## Unordered Lists
+There is a possibility that employees may break security policies.Risk of Marketing team's inability to demonstrate the efficiency of our product to the customers .Since this application will be a new concept in the market, there is a possibility that sales team will not be able to demonstrate the operations, features and description of product to new customers.
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+##### Risk of more attrition rate
 
-## Ordered Lists
+There is always a problem of employees (who are set) leaving their jobs to greener pastures.
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+#### How can you reduce these risks ?
 
-## Code Blocks
+##### Wrong technologies stack for developing the solution
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
+This type of risk cannot be totally eliminated but the following steps will help to reduce this.
 
-```
-<!-- Some example CSS code -->
-body {
-  color:red;
-}
-```
+Firstly, hiring experts in the area of Artificial Intelligence and User Interface developments will help to reduce this risk. Secondly, this company will create a dedicated team for Research and Development having a mixture of seniors and freshers technology enthusiasts, and our hired experts will closely work with the team to make the right decisions related to technologies selection, design patterns, and algorithms designing. Thirdly, there will be regular face to face meetings in the team to track the progress.
 
-## Tables
+##### Risk related to the hiring process of employees
 
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
+This type of risk cannot be eliminated but the following steps will help to reduce this
+
+Firstly, the hiring team needs to be fully trained in selecting the required candidates. Secondly, they should not use a single approach while selecting candidates instead they should use a variety of sources such as linked in, newspapers, etc. Thirdly, they should select candidates from diverse locations as a diverse team will lead to more innovative ideas.
+
+##### Economic Recession
+
+This type of risk cannot be eliminated but the following steps will help to reduce this 
+
+Firstly, the organization needs to hire specialists who can predict market trends based on the historical patterns and accordingly product will be launched when market will be in a good shape. Secondly, the organization needs to closely monitored international market through following business news and trends to anticipate any economic risk which can impact our organization.
+
+##### Competitors out-innovate product.
+
+This type of risk cannot be eliminated but the following steps will help to reduce this
+
+Firstly, we continuously need to analysis that what can beat our design and make plan to mitigate those. We need to constantly innovate our design and refine it. Secondly, better hiring process to hire more reliable resources and increase their satisfaction level so that they will not leave our organization and share our secrets with other entrants.
+
+##### Risk from natural disasters
+
+Following steps will help to mitigate this risk. Firstly, the company will use cloud for running our application. Secondly, we will plan regular disaster recovery activity to reduce this risk. Thirdly, we will have multiple servers running in synchronous mode with each other.
+
+##### Risk to breach security policies
+
+To prevent this risk company will follow below steps
+
+Firstly, employees will be properly trained. Secondly, there will be regular audits on regular basis to make sure employees are adhering to security policies. Thirdly, the company will make sure it is following all digital security laws and standards and states laws. Finally, company will continually revise and update the policies.
+
+##### Risk of Marketing team unable to demonstrate product correctly to customer
+
+This risk will be mitigated by providing proper training to Sales teams. Feed back sessions will be carefully analyzed to make improvements if required.
+
+##### Risk of more attrition rate
+
+Preventive measures to reduce this risk are: -
+
+This risk will be reduced by crossing training the employees so that say if one employee will leave the organization its peer will be able to handle tasks with minimal impact on business. Apart from there, all the knowledge transfer sessions will be recorded so that there will not be any loss of knowledge.
