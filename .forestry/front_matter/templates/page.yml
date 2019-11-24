@@ -24,8 +24,5 @@ fields:
   config:
     required: true
 pages:
-- "./risk.md"
-- "./strategies.md"
-- "./strategies-1.md"
 - style-guide.md
 - about.md
