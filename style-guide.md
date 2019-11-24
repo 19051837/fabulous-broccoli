@@ -12,9 +12,9 @@ menu:
 
 ---
 
-![](/images/icons.png)
-
 This company will adopt the differentiation strategy because our AI-based innovative products make us stand out from the other entrants, and we highly  focus on resolving the pain areas of our clients to establish a sound relationship with them. Additionally, we aimed at targeting two major areas,which are production issues and security threats. Also, our services are easily adaptable to organization of any size
+
+[Download File]( "Download File")![](/images/icons.png)
 
 This enterprise is will be an early mover in the field of AI-based production environment issues mitigation and a single tool that provides integration with other security vulnerabilities platforms.
 
