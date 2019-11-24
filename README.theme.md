@@ -1,5 +1,8 @@
 ---
 title: Vision
+menu:
+  main:
+    weight: 6
 
 ---
 # Fresh
