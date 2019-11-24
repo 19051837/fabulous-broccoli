@@ -8,7 +8,7 @@ menu:
     weight: 3
 
 ---
-![](/images/risk_9-5bfc36ac46e0fb00511c3195.jpg)
+![](/images/Risk-Management-Concept.jpg)
 
 ### What the the risks to our venture ?
 
