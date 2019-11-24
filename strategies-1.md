@@ -10,7 +10,7 @@ menu:
     weight: 2
 
 ---
-![](/images/AdobeStock_92490464-1024x682.jpeg)
+![](/images/Print-Media-Marketing-1.png)
 
 ### How we will reach out to our customers ?
 
