@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- financial.md
 - style-guide.md
