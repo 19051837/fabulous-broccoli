@@ -4,7 +4,7 @@ subtitle: The style guide provides you with a blueprint of default post and page
   The style guide is also a great reference for suggested typographic treatment and
   styles for your content.
 layout: page
-img_path: "/images/teamwork-transparent-19.png"
+img_path: "/images/logo.PNG"
 menu:
   main:
     weight: 1
