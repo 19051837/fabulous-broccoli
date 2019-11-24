@@ -2,7 +2,7 @@
 title: Vision
 menu:
   main:
-    weight: 6
+    weight: 5
 
 ---
 # Fresh
