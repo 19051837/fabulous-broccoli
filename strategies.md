@@ -8,7 +8,7 @@ menu:
     weight: 4
 
 ---
-![](/images/34-343010_black-orange-warning-1-clip-art-at-clker-orangewarning-sign.png.jpg)
+![](/images/warning-icon.png)
 
 ### What the the risks to our venture ?
 
