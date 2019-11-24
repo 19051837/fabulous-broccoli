@@ -8,7 +8,7 @@ menu:
     weight: 1
 
 ---
-**_We are aiming at proving our customers the most seamless experience in areas where they are struggling with the serious security threats and production environment failures styles. The style guide is also a great reference for suggested typographic treatment and styles for your content._**
+### _We are aiming at proving our customers the most seamless experience in areas where they are struggling with the serious security threats and production environment failures styles. The style guide is also a great reference for suggested typographic treatment and styles for your content._
 
 _This company will adopt the differentiation strategy because our AI-based innovative products make us stand out from the other entrants, and we highly  focus on resolving the pain areas of our clients to establish a sound relationship with them. Additionally, we aimed at targeting two major areas,which are production issues and security threats. Also, our services are easily adaptable to organization of any size_ 
 
