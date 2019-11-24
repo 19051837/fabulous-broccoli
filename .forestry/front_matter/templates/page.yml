@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- "./strategies.md"
 - style-guide.md
