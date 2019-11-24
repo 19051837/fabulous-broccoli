@@ -8,7 +8,7 @@ layout: page
 img_path: ''
 menu:
   main:
-    weight: 2
+    weight: 1
 
 ---
 
