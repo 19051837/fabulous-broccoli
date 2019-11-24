@@ -34,3 +34,4 @@ menu:
     weight: 1
 
 ---
+![](/images/teamwork-transparent-19.png)
