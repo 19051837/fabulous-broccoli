@@ -29,6 +29,10 @@ sections:
   component: posts_block.html
   num_posts_displayed: 4
 layout: home
+menu:
+  main:
+    weight: 1
+    title: Finance
 
 ---
 ![](/images/teamwork-transparent-19.png)
