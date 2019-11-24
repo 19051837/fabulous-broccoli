@@ -7,7 +7,7 @@ layout: page
 img_path: ''
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 ![](/images/Print-Media-Marketing-1.png)
