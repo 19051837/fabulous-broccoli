@@ -11,8 +11,7 @@ menu:
     weight: 1
 
 ---
-
-![](/images/Depositphotos_55497461_l-2015.jpg)
+![](/images/dementia-strategies.jpeg)
 
 This company will adopt the differentiation strategy because our AI-based innovative products make us stand out from the other entrants, and we highly  focus on resolving the pain areas of our clients to establish a sound relationship with them. Additionally, we aimed at targeting two major areas,which are production issues and security threats. Also, our services are easily adaptable to organization of any size
 
