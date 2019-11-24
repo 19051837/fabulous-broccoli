@@ -3,7 +3,7 @@ title: FIXEE
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: violet
+palette: orange
 header:
   title: FIXEE
   tagline: Sarpeet Kaur (19051837)
