@@ -32,7 +32,7 @@ layout: home
 menu:
   main:
     weight: 1
-    title: Vi
+    title: Vision
 
 ---
 ![](/images/teamwork-transparent-19.png)
