@@ -10,7 +10,7 @@ menu:
     weight: 2
 
 ---
-![](/images/17jul18.jpg)
+![](/images/digital-marketing-marketing-strategy-online-advertising-marketing.jpg)
 
 ### How we will reach out to our customers ?
 
