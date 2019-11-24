@@ -9,13 +9,13 @@ menu:
 
 ---
 
-![](/images/355_main.jpg)
+![](/images/Risk-Management-Concept.jpg)
 
 ### What the the risks to our venture ?
 
 #### Wrong technologies stack for developing the solution
 
- Choosing the right technology stack is very crucial for a product/software development as it needs to be intuitive to users and highly accurate for making decisions to mitigate production issues based on AI algorithms. Since this deals with the client's production environment and security vulnerabilities, choosing the wrong technology stack may lead to the client's dissatisfaction at the end. 
+Choosing the right technology stack is very crucial for a product/software development as it needs to be intuitive to users and highly accurate for making decisions to mitigate production issues based on AI algorithms. Since this deals with the client's production environment and security vulnerabilities, choosing the wrong technology stack may lead to the client's dissatisfaction at the end.
 
 #### Risk related to the hiring process of employees
 
