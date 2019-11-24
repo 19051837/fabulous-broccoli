@@ -9,3 +9,4 @@ menu:
     title: Finance
 
 ---
+![](/images/121-512.png)
