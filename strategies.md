@@ -9,7 +9,7 @@ menu:
 
 ---
 
-![](/images/Risk-Management-Concept.jpg)
+![](/images/ce752a6c1a2c1d8046ea0b4358123857e58f7c5a.jpg)
 
 ### What the the risks to our venture ?
 
