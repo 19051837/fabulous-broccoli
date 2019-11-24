@@ -3,7 +3,7 @@ title: Stackbit Fresh Theme
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: blue
+palette: violet
 header:
   title: FIXEE
   tagline: Sarpeet Kaur (19051837)
