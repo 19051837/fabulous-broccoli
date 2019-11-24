@@ -8,8 +8,7 @@ menu:
     weight: 3
 
 ---
-
-![](/images/ce752a6c1a2c1d8046ea0b4358123857e58f7c5a.jpg)
+![](/images/risk_9-5bfc36ac46e0fb00511c3195.jpg)
 
 ### What the the risks to our venture ?
 
