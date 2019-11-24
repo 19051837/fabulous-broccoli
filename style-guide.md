@@ -1,8 +1,9 @@
 ---
 title: Strategies
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment and
-  styles for your content.
+subtitle: We are aiming at proving our customers the most seamless experience in areas
+  where they are struggling with the serious security threats and production environment
+  failures styles. The style guide is also a great reference for suggested typographic
+  treatment and styles for your content.
 layout: page
 img_path: ''
 menu:
@@ -10,77 +11,16 @@ menu:
     weight: 1
 
 ---
-**![](/images/2.jpg)T**[Download F]( "Download File")![](/images/logo-1.PNG)[ile]( "Download File")**his is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+_This company will adopt the differentiation strategy because our AI-based innovative products make us stand out from the other entrants, and we highly  focus on resolving the pain areas of our clients to establish a sound relationship with them. Additionally, we aimed at targeting two major areas,which are production issues and security threats. Also, our services are easily adaptable to organization of any size._
 
-# This is an H1
+###### _This enterprise is will be an early mover in the field of AI-based production environment issues mitigation and a single tool that provides integration with other security vulnerabilities platforms._
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+#### _More switching cost:_ 
 
-## This is an H2
+###### _This tool needs integration with the customer's production servers through configuration files to analyze logs and gather metrics etc. Similarly, this tool needs to be integrated with other scanning tools such as Veracode and dashboards, used by the customer currently, which will make the switching cost to other solutions challenging as well as costlier for clients._
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+#### _Gain customer's confidence:_ 
 
-### This is an H3
+###### _Being the first-player in this area will help this enterprise to establishsound relations with the customers. As this will be the primary solution for customers' requirements,they will open up more for their problems and will discuss the needs in detail, which will further help usto improve our tool capabilities._
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-## Quoting
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-* Donec non tortor in arcu mollis feugiat
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-* Donec id eros eget quam aliquam gravida
-* Vivamus convallis urna id felis
-* Nulla porta tempus sapien
-
-## Ordered Lists
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color:red;
-    }
-
-## Tables
-
-<table>
-<caption>Table with thead, tfoot, and tbody</caption>
-<thead>
-<tr>
-<th>Header content 1</th>
-<th>Header content 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Body content 1</td>
-<td>Body content 2</td>
-</tr>
-</tbody>
-<tfoot>
-<tr>
-<td>Footer content 1</td>
-<td>Footer content 2</td>
-</tr>
-</tfoot>
-</table>
+##### 
