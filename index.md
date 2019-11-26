@@ -38,15 +38,6 @@ sections:
     login into different tools to read security flaws, solutions, etc. Moreover, it will keep on learning and
     storing these code fixes on the centralized cloud so that new developers can make the use of experienced
     developers’ knowledge and save their efforts to work on similar issues.
-- type: postsblock
-  template: postsblock
-  title: Recent Posts
-  section_id: recent-posts
-  actions:
-  - label: View Blog
-    url: blog/index.html
-  component: posts_block.html
-  num_posts_displayed: 4
 layout: home
 
 ---
