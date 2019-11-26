@@ -5,8 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: 'Say goodbye to production issues and security vulnerabilities issues because
-    I am here to rescue '
+  content: Say goodbye to your production issues and security vulnerabilities issues
+    because I am here to rescue.
 - type: contentblock
   template: contentblock
   title: About
