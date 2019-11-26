@@ -24,6 +24,6 @@ sections:
     url: blog/index.html
   component: posts_block.html
   num_posts_displayed: 4
-layout: home
+layout: ''
 
 ---
