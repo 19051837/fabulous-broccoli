@@ -27,8 +27,3 @@ sections:
 layout: ''
 
 ---
-* Say goodbye to production issues because I am here to rescue.
-* I can assist you to fix security vulnerabilities seamlessly.
-* I will update all your bug fixes status on various dashboards from your IDE.
-* I am here in your service round the clock.
-* No worries if your teammate is not available because I am always there to help you.
