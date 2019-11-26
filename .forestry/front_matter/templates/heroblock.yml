@@ -43,3 +43,7 @@ fields:
   default: heroblock
   config:
     required: true
+- name: image
+  type: image_gallery
+  config: {}
+  label: image
