@@ -14,7 +14,7 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: content_block.html
-  content: i do not know
+  content: ''
 - type: postsblock
   template: postsblock
   title: Recent Posts
