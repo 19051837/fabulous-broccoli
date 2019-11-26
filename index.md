@@ -31,4 +31,4 @@ sections:
 layout: home
 
 ---
-![](/images/teamwork-transparent-19.png)
+jnjjhjhj
