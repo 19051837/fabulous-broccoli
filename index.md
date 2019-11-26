@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: ''
+  content: mnmnm
 - type: contentblock
   template: contentblock
   title: About
