@@ -39,7 +39,7 @@ sections:
     login into different tools to read security flaws, solutions, etc. Moreover, it will keep on learning and
     storing these code fixes on the centralized cloud so that new developers can make the use of experienced
     developers’ knowledge and save their efforts to work on similar issues.
-  image: "/images/6a00d83451623c69e2022ad3b6db0d200d.jpg"
+  image: "/images/AI_MachineLearning_BlogImages-01.png"
 layout: home
 
 ---
