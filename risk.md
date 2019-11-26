@@ -1,8 +1,8 @@
 ---
 title: Vision
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment and
-  styles for your content.
+subtitle: To provide the most intuitive and the most productive experience for fixing
+  the application security vulnerabilities as well as the quickest and hassle-free
+  production issues mitigation experience to our customer.
 layout: page
 img_path: ''
 menu:
@@ -10,79 +10,10 @@ menu:
     weight: 5
 
 ---
-![](/images/vision.png)
+![](/images/vision (1).png)
 
-**This is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+Firstly, being the most intuitive means providing the most user-friendly experience to our users, even a novice user can work on it without any formal training of our tool. Our goal is to consistently introduce innovative features to enhance the usability of the tool while maintaining the patterns and designs as simple as possible. For instance, the NLP based chatbot of this tool shares the meaning of vulnerabilities, and the sample fixes resolved by other developers by simply asking this tool.
 
-# This is an H1
+Secondly, being the most productive means providing the fastest response to its user. Our objective is to keep the average response time as minimal as possible by introducing optimized speed-boosting algorithms in our implementation logic. For instance, this tool will keep on sharing performance enhancement upgrades as per the latest frontend and backend technology to remain the first choice of our customers.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### This is an H3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-## Quoting
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-* Donec non tortor in arcu mollis feugiat
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-* Donec id eros eget quam aliquam gravida
-* Vivamus convallis urna id felis
-* Nulla porta tempus sapien
-
-## Ordered Lists
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color:red;
-    }
-
-## Tables
-
-<table>
-<caption>Table with thead, tfoot, and tbody</caption>
-<thead>
-<tr>
-<th>Header content 1</th>
-<th>Header content 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Body content 1</td>
-<td>Body content 2</td>
-</tr>
-</tbody>
-<tfoot>
-<tr>
-<td>Footer content 1</td>
-<td>Footer content 2</td>
-</tr>
-</tfoot>
-</table>
+Lastly, being the quickest and hassle-free to resolve production problems means to keep the knowledge base up to date with the latest definitions and resolutions of production flaws in our cloud-based backend services. Every change in technology will bring new challenges and issues, and we aim our tool will proactively rectify any newly introduced issues to provide the ever most effortless experience to fix production environment problems.
