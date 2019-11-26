@@ -39,6 +39,7 @@ sections:
     login into different tools to read security flaws, solutions, etc. Moreover, it will keep on learning and
     storing these code fixes on the centralized cloud so that new developers can make the use of experienced
     developers’ knowledge and save their efforts to work on similar issues.
+  image: "/images/355_main-1.jpg"
 layout: home
 
 ---
