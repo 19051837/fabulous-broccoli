@@ -5,8 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Hey everyone.
 - type: contentblock
   template: contentblock
   title: About
@@ -31,4 +30,3 @@ sections:
 layout: home
 
 ---
-hello everyone
