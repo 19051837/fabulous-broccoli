@@ -5,7 +5,7 @@ subtitle: In total roughly we would need $ 591650.00 to get this project off the
 img_path: ''
 menu:
   main:
-    weight: 1
+    weight: 5
     title: Finance
 
 ---

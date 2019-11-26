@@ -7,7 +7,7 @@ layout: page
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 1
 
 ---
 ![](/images/vision (1).png)
