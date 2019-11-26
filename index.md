@@ -15,6 +15,7 @@ sections:
   component: hero_block.html
   content: Say goodbye to your production issues and security vulnerabilities issues
     because I am here to rescue.
+  image: "/images/warning-icon.png"
 - type: contentblock
   template: contentblock
   title: About
