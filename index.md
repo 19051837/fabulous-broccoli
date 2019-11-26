@@ -19,7 +19,7 @@ sections:
     Nowadays many production support groups in IT-based companies spend hours every day to resolve
     common repetitive production issues owing to reasons such as, lack of knowledge and skills to
     troubleshoot the issues, lack of training, inadequate application software monitoring tools and at other
-    times due to high attrition rate in an organization, layoffs due to a under-performing economy. Due of
+    times due to high attrition rate in an organization, layoffs due to a under-performing economy. Due to
     the above-mentioned reasons, large enterprises have to spend thousands of dollars to deal with these
     production issues. So, here comes the need for a new intelligent solution based on artificial intelligence
     which can continually observe exceptions and errors in productions logs and automatically trigger
