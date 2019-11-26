@@ -1,14 +1,6 @@
 ---
 title: Home
 sections:
-- type: Content Section with Optional Image Save
-  template: Content Section with Optional Image Save
-  section_id: Content Section with Optional Image Save
-  component: Content Section with Optional Image Save
-  content: |-
-    Content Section with Optional Image
-    Save
-  image: "/images/121-512.png"
 - type: heroblock
   template: heroblock
   section_id: hero
