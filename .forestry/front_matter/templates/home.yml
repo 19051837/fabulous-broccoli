@@ -24,6 +24,11 @@ fields:
   - type: textarea
     name: content
     label: content
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
 - type: text
   name: layout
   label: layout
