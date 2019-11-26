@@ -8,6 +8,7 @@ sections:
   content: |-
     Content Section with Optional Image
     Save
+  image: "/images/121-512.png"
 - type: heroblock
   template: heroblock
   section_id: hero
