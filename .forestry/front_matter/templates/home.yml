@@ -1,0 +1,29 @@
+---
+label: home
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: section_id
+    label: section_id
+  - type: text
+    name: component
+    label: component
+  - type: textarea
+    name: content
+    label: content
+- type: text
+  name: layout
+  label: layout
