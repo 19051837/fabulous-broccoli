@@ -25,5 +25,5 @@ fields:
     required: true
 pages:
 - home.md
-- financial.md
 - style-guide.md
+- financial.md

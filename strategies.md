@@ -1,6 +1,6 @@
 ---
 title: Risk
-subtitle: Majors risks for our venture and how we will mitigate them.
+subtitle: Major risks for our venture and how we will mitigate them.
 layout: page
 img_path: ''
 menu:
